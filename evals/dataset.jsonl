@@ -1,0 +1,36 @@
+{"id":"billing_001","query":"Me cobraron dos veces la suscripción de este mes.","category":"billing","expected_keywords":["factura","cargos","reembolso"]}
+{"id":"billing_002","query":"La factura de mi plan incluye un impuesto que no reconozco.","category":"billing","expected_keywords":["factura","impuestos","plan"]}
+{"id":"billing_003","query":"Quiero solicitar el reembolso de un cargo duplicado.","category":"billing","expected_keywords":["cargo","reembolso","duplicidad"]}
+{"id":"billing_004","query":"Mi método de pago fue rechazado pero igual vi un cargo.","category":"billing","expected_keywords":["método de pago","cargo"]}
+{"id":"billing_005","query":"No entiendo el cargo adicional en la factura del periodo.","category":"billing","expected_keywords":["cargo","factura","periodo"]}
+{"id":"billing_006","query":"Cambié de plan y necesito el ajuste proporcional de la factura.","category":"billing","expected_keywords":["plan","ajuste","factura"]}
+{"id":"billing_007","query":"El pago de la tarjeta aparece dos veces en mi resumen.","category":"billing","expected_keywords":["pago","tarjeta","duplicidad"]}
+{"id":"billing_008","query":"La suscripción se renovó y quiero verificar los impuestos aplicados.","category":"billing","expected_keywords":["suscripción","impuestos"]}
+{"id":"billing_009","query":"Tengo un problema con el cargo de mi plan empresarial.","category":"billing","expected_keywords":["cargo","plan"]}
+{"id":"technical_001","query":"La API devuelve un error 500 al crear un webhook.","category":"technical","expected_keywords":["api","error","webhook"]}
+{"id":"technical_002","query":"La integración con nuestro servicio tiene mucha latencia.","category":"technical","expected_keywords":["integración","servicio","rendimiento"]}
+{"id":"technical_003","query":"Hay un timeout en la API desde hace treinta minutos.","category":"technical","expected_keywords":["timeout","api"]}
+{"id":"technical_004","query":"El rendimiento del-panel bajó después del último deploy.","category":"technical","expected_keywords":["rendimiento","servicio"]}
+{"id":"technical_005","query":"Necesito revisar los logs de un error intermitente.","category":"technical","expected_keywords":["logs","error"]}
+{"id":"technical_006","query":"La integración falla al sincronizar datos con el servicio externo.","category":"technical","expected_keywords":["integración","servicio"]}
+{"id":"technical_007","query":"Aparece un bug visual en el panel de métricas de la API.","category":"technical","expected_keywords":["bug","api"]}
+{"id":"technical_008","query":"El servicio no responde y quiero saber la causa del error.","category":"technical","expected_keywords":["servicio","causa","error"]}
+{"id":"technical_009","query":"Los webhooks llegan duplicados desde la integración.","category":"technical","expected_keywords":["webhook","integración"]}
+{"id":"account_001","query":"No puedo iniciar sesión y el código 2FA me da error.","category":"account","expected_keywords":["cuenta","acceso","2FA"]}
+{"id":"account_002","query":"Olvidé mi contraseña y necesito recuperar el acceso.","category":"account","expected_keywords":["contraseña","acceso"]}
+{"id":"account_003","query":"Quiero cambiar los permisos de un usuario de mi cuenta.","category":"account","expected_keywords":["permisos","cuenta"]}
+{"id":"account_004","query":"Mi perfil tiene datos desactualizados y no puedo editarlos.","category":"account","expected_keywords":["perfil","cuenta"]}
+{"id":"account_005","query":"La verificación de identidad sigue pendiente desde ayer.","category":"account","expected_keywords":["verificación","cuenta"]}
+{"id":"account_006","query":"Perdí mi teléfono y ya no recibo el código 2FA.","category":"account","expected_keywords":["2FA","acceso"]}
+{"id":"account_007","query":"Necesito revisar quién tiene acceso a mi cuenta.","category":"account","expected_keywords":["acceso","cuenta"]}
+{"id":"account_008","query":"El password actual no funciona después del cambio de perfil.","category":"account","expected_keywords":["password","perfil"]}
+{"id":"account_009","query":"Quiero activar la verificación en dos pasos de mi cuenta.","category":"account","expected_keywords":["verificación","cuenta"]}
+{"id":"other_001","query":"¿Cuál es el horario de atención del equipo de soporte?","category":"other","expected_keywords":["consulta","soporte","equipo"]}
+{"id":"other_002","query":"Tengo una consulta general sobre la documentación.","category":"other","expected_keywords":["consulta","información"]}
+{"id":"other_003","query":"¿Pueden recomendarme una guía de buenas prácticas?","category":"other","expected_keywords":["información","soporte"]}
+{"id":"other_004","query":"Quiero saber cómo contactar al equipo comercial.","category":"other","expected_keywords":["equipo","soporte"]}
+{"id":"other_005","query":"Necesito información sobre próximos eventos de la empresa.","category":"other","expected_keywords":["información","consulta"]}
+{"id":"other_006","query":"¿Tienen material para capacitar a mi equipo?","category":"other","expected_keywords":["equipo","información"]}
+{"id":"other_007","query":"Mi consulta no encaja en facturación ni en soporte técnico.","category":"other","expected_keywords":["consulta","soporte"]}
+{"id":"other_008","query":"¿Cómo puedo dejar un comentario sobre el servicio?","category":"other","expected_keywords":["consulta","soporte"]}
+{"id":"other_009","query":"Solicito información general sobre los planes de la empresa.","category":"other","expected_keywords":["información","consulta"]}
